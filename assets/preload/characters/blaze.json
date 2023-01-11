@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-328,
+				163
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Blaze Left"
+		},
+		{
+			"offsets": [
+				-430,
+				172
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Blaze Down"
+		},
+		{
+			"offsets": [
+				-468,
+				184
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Blaze Right"
+		},
+		{
+			"offsets": [
+				-293,
+				184
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Blaze Up"
+		},
+		{
+			"offsets": [
+				-365,
+				178
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "Blaze Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-480,
+				120
+			],
+			"anim": "yeah",
+			"fps": 18,
+			"name": "Blaze Yeah",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Blaze",
+	"position": [
+		-340,
+		140
+	],
+	"healthicon": "blaze",
+	"flip_x": false,
+	"healthbar_colors": [
+		219,
+		198,
+		238
+	],
+	"camera_position": [
+		250,
+		90
+	],
+	"sing_duration": 6.59999999999999,
+	"scale": 1
+}
